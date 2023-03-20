@@ -1,3 +1,3 @@
-# StackEdit Plus First File
+# StackEdit Plus app data default repo
 
 
